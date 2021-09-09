@@ -1,7 +1,8 @@
 ### Hello :) 👋
 
 
-- 🕴🏻 I’m currently working on Mobile Chat Application for personal use.
+- 🕴🏻 I’m currently working on Mobile Application.
+
 - 🎓 I’m currently learning a lot of things.
 
 - 📫 How to reach me: wanyeonkim@gmail.com
