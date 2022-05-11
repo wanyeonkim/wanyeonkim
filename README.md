@@ -1,7 +1,7 @@
 ### Hello :) 👋
 
 
-- 🕴🏻 I’m currently working on Backend Development with Mobile Application.
+- 🕴🏻 I’m currently working on Backend Development with Mobile Application and IOT.
 
 - 🎓 I’m currently learning a lot of things.
 
